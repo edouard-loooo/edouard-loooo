@@ -5,12 +5,14 @@ data experience, moving toward an **Analytics / Data Engineer** role. I like
 turning messy raw data into pipelines people can actually trust.
 
 ## What I'm building
-- 🔍 **[Chess Analytics Pipeline](lien-repo-echecs)** — Python ingestion
+- 🔍 **[Chess Analytics Pipeline](https://github.com/edouard-loooo/chess_analytics)** — Python ingestion
   (streaming Lichess PGN data) → BigQuery → dbt (staging/intermediate/marts,
   tests, incremental models) → dashboard. My first end-to-end analytics
   engineering project.
-- 🤖 **Job Application Copilot** *(in progress)* — an agentic assistant
-  (parser → matcher → writer) to help me navigate my own job search.
+- 🔍 **[Music Analytics Pipeline]([lien-repo](https://github.com/edouard-loooo/music_analytics))** *(in progress)* — Python ingestion
+  (ListenBrainz + MusicBrainz APIs) → BigQuery → dbt → dashboard, controled by Airflow 
+  orchestrator. Another analytics engineering project, including orchestration and more 
+  advanced SQL in models.
 
 ## Stack
 Python · SQL · dbt · BigQuery · Power BI / Tableau · Git
@@ -19,4 +21,4 @@ Python · SQL · dbt · BigQuery · Power BI / Tableau · Git
 Cloud certification (AWS / Snowflake) · GenAI & agentic systems
 
 ## Let's connect
-📍 Open to remote — France & international · [LinkedIn](ton-lien-linkedin) · edouard.loup1@gmail.com
+📍 Open to remote — Thailand & international · [LinkedIn](www.linkedin.com/in/edouard-loup) · edouard.loup1@gmail.com
