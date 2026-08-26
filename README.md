@@ -9,7 +9,7 @@ turning messy raw data into pipelines people can actually trust.
   (streaming Lichess PGN data) → BigQuery → dbt (staging/intermediate/marts,
   tests, incremental models) → dashboard. My first end-to-end analytics
   engineering project.
-- 🔍 **[Music Analytics Pipeline]([lien-repo](https://github.com/edouard-loooo/music_analytics))** *(in progress)* — Python ingestion
+- 🔍 **[Music Analytics Pipeline](https://github.com/edouard-loooo/music_analytics)** *(in progress)* — Python ingestion
   (ListenBrainz + MusicBrainz APIs) → BigQuery → dbt → dashboard, controled by Airflow 
   orchestrator. Another analytics engineering project, including orchestration and more 
   advanced SQL in models.
